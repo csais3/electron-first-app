@@ -1,0 +1,14 @@
+{
+  "name": "my-first-app",
+  "version": "1.0.0",
+  "description": "Following the official docs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "dnomad",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.7"
+  }
+}
